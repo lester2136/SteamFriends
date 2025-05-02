@@ -12,3 +12,20 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/e1adaa796a4d9787642212719987a4a7ea2838eb.jpg) | xiaoyue_2335 | [76561199470980228](https://steamcommunity.com/profiles/76561199470980228/) | ✅           | 2025-04-27 09:33:39 |                |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 1486748517   | [76561199746338962](https://steamcommunity.com/profiles/76561199746338962/) | ✅           | 2024-07-22 14:47:38 |                |          |
+| ![](https://avatars.steamstatic.com/1041ba6a4e78732f0e8241f30f4dfe551293dcbf.jpg) | KnsaMiso     | [76561198798370881](https://steamcommunity.com/profiles/76561198798370881/) | ✅           | 2024-05-28 14:11:02 |                |          |
+| ![](https://avatars.steamstatic.com/51bb78fd07a616dffa959c285ad0951a7ece4680.jpg) | Scorpion     | [76561198819940877](https://steamcommunity.com/profiles/76561198819940877/) | ✅           | 2021-08-16 04:48:05 |                |          |
+| ![](https://avatars.steamstatic.com/a176472b1d0f3730c6d6bf48400bab5d139b8312.jpg) | 泠念           | [76561198318695642](https://steamcommunity.com/profiles/76561198318695642/) | ✅           | 2020-04-30 14:13:34 |                |          |
+| ![](https://avatars.steamstatic.com/c265a1127d580a44057490465c23f7475d707ff4.jpg) | Eosis        | [76561199690583740](https://steamcommunity.com/profiles/76561199690583740/) | ✅           | 2024-05-31 02:21:54 |                |          |
+| ![](https://avatars.steamstatic.com/94962b6d93c5401803fc8db1516c2e55408855a7.jpg) | 沉狱丶          | [76561199027447424](https://steamcommunity.com/profiles/76561199027447424/) | ✅           | 2023-04-28 10:25:03 |                |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 铬钢蒸汽平台       | [76561199211543668](https://steamcommunity.com/profiles/76561199211543668/) | ✅           | 2024-12-21 04:07:23 |                |          |
+| ![](https://avatars.steamstatic.com/e8f5b39f10908bf6d626f1a6923fae81d3579ecb.jpg) | 讪也爱吃章鱼肠      | [76561199013830570](https://steamcommunity.com/profiles/76561199013830570/) | ✅           | 2023-05-13 08:19:04 |                |          |
+| ![](https://avatars.steamstatic.com/5bebf664960e36d7de68740f75ea15bff0b01df5.jpg) | Serum        | [76561199202459211](https://steamcommunity.com/profiles/76561199202459211/) | ✅           | 2025-01-27 15:51:01 |                |          |
+| ![](https://avatars.steamstatic.com/27d705d9cd03674919e3a2faa5ce97f932e113ce.jpg) | 加v看避寒洗澡      | [76561199195667623](https://steamcommunity.com/profiles/76561199195667623/) | ✅           | 2025-02-02 06:56:38 |                |          |
+| ![](https://avatars.steamstatic.com/47825e6a7c0b2609e62cc1dec7ff45be5a5e5302.jpg) | IDF_Official | [76561198411334983](https://steamcommunity.com/profiles/76561198411334983/) | ✅           | 2025-04-24 07:07:41 |                |          |
